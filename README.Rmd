@@ -1,5 +1,8 @@
-# README
-## Lab 1
+---
+title: "Lab 1: Getting Started"
+output: github_document
+---
+## Hello world!
 ```{r}
-R.Version()
+sessioninfo::session_info(c("tidyverse"))
 ```
